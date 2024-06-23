@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/RamneetSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramneet singh" height="30" width="40" /></a>
-  <img src="https://leetcode-stats.vercel.app/api?username=RamneetSingh&theme=Dark"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,5 +33,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramneet04&" alt="ramneet04" /></p>
+<p><img align="center" src="https://leetcode-stats.vercel.app/api?username=RamneetSingh&theme=Dark" alt="RamneetSingh Leetcode"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramneet04&show_icons=true&locale=en" alt="ramneet04" /></p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramneet04&show_icons=true&locale=en&layout=compact" alt="ramneet04" /></p>
